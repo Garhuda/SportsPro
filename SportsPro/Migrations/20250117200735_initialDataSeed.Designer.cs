@@ -11,7 +11,7 @@ using SportsPro.Models;
 namespace SportsPro.Migrations
 {
     [DbContext(typeof(SportsProContext))]
-    [Migration("20250122151621_initialDataSeed")]
+    [Migration("20250117200735_initialDataSeed")]
     partial class initialDataSeed
     {
         /// <inheritdoc />

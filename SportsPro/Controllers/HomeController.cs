@@ -4,7 +4,7 @@ namespace SportsPro.Controllers
 {
     public class HomeController : Controller
     {
-        //index method and current home page
+        //Index method and current home page
         public IActionResult Index()
         {
             return View();
